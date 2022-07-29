@@ -1,0 +1,2 @@
+# obsidian_minial_theme_checklist_icons_alfred_workflow
+Alfred workflow for inserting Obsidian Minimal theme checklist icons
